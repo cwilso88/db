@@ -42,6 +42,105 @@
     "status": "Off",
     "location": "Remote",
     "image": "https://bittaxer.com/wp-content/uploads/2018/03/danielle-profile-bittaxer-300x300.jpg"
+  },
+{
+    "id": 5,
+    "name": "Chelsey Dietrich",
+    "username": "Kamren",
+    "email": "Lucio_Hettinger@annie.ca",
+    "phone": "(254)954-1289",
+    "department": "Product Development",
+    "status": "Away",
+    "location": "Office",
+    "image": "https://media.globalcitizen.org/59/23/59238b2d-5e74-4aa9-97e6-692731d9aceb/profile2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Mrs. Dennis Schulist",
+    "username": "Leopoldo_Corkery",
+    "email": "Karley_Dach@jasper.info",
+    "phone": "1-477-935-8478 x6430",
+    "department": "Engineering",
+    "status": "Online",
+    "location": "Remote",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPnbmMlZ9kRpGY1-1I0i2p23VuwV4dOL3s4PDSY3t6wxqmOccw"
+  },
+  {
+    "id": 7,
+    "name": "Kurtis Weissnat",
+    "username": "Elwyn.Skiles",
+    "email": "Telly.Hoeger@billy.biz",
+    "phone": "210.067.6132",
+    "department": "Engineering",
+    "status": "Online",
+    "location": "Office",
+    "image": "http://www.medillnews847.com/jour320/winter17/ko/img/Profile.png"
+  },
+  {
+    "id": 8,
+    "name": "Nicholas Runolfsdottir V",
+    "username": "Maxime_Nienow",
+    "email": "Sherwood@rosamond.me",
+    "phone": "586.493.6943 x140",
+    "department": "Research and Development",
+    "status": "Off",
+    "location": "Office",
+    "image": "https://bs-main-prod.s3.amazonaws.com/business-school/wp-content/uploads/2018/04/mark-OShea-profile.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Glenna Reichert",
+    "username": "Delphine",
+    "email": "Chaim_McDermott@dana.io",
+    "phone": "(775)976-6794 x41206",
+    "department": "Product Development",
+    "status": "Away",
+    "location": "Office",
+    "image": "http://lavinephotography.com.au/wp-content/uploads/2017/01/PROFILE-Photography-112.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Clementina DuBuque",
+    "username": "Moriah.Stanton",
+    "email": "Rey.Padberg@karina.biz",
+    "phone": "024-648-3804",
+    "department": "Engineering",
+    "status": "Online",
+    "location": "Remote",
+    "image": "https://nyoobserver.files.wordpress.com/2012/07/gracemeng_profile.png?w=250&quality=80&strip"
+  },
+  {
+    "id": 11,
+    "name": "Anne Rosenburg Kraft",
+    "username": "anne_rK",
+    "email": "anne_rkHelenga.me",
+    "phone": "896.01.6943 x320",
+    "department": "Research and Development",
+    "status": "Away",
+    "location": "Remote",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVPdv55igEOxd1sHV-M2rwIGxf2ZpGuT8g64Pol35K6NlcgjXx"
+  },
+  {
+    "id": 12,
+    "name": "Thomas Thiago Main",
+    "username": "thomas1982main4",
+    "email": "thi_M@dana.io",
+    "phone": "(990)253-6794 x21206",
+    "department": "Product Development",
+    "status": "Off",
+    "location": "Remote",
+    "image": "https://secure.gravatar.com/avatar/059e9fa45afb9304a9aec26881752027?s=300&d=mm&r=g"
+  },
+  {
+    "id": 13,
+    "name": "Franklin John Smith",
+    "username": "john.thethird",
+    "email": "smithjohn.biz",
+    "phone": "343-098-2404",
+    "department": "Engineering",
+    "status": "Online",
+    "location": "Office",
+    "image": "https://i0.wp.com/zblogged.com/wp-content/uploads/2019/02/FakeDP.jpeg?resize=567%2C580&ssl=1"
   }
   ],
   "profile": {
