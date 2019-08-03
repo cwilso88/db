@@ -1,9 +1,48 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
+  "users": [
+{
+    "id": 1,
+    "name": "Leanne Graham",
+    "email": "Sincere@april.biz",
+    "phone": "1-770-736-8031 x56442",
+    "department": "Research and Development",
+    "status": "Away",
+    "location": "Office",
+    "image": "https://cdn.the-scientist.com/assets/articleNo/65643/aImg/31219/miriam-merad-t.png"
+  },
+  {
+    "id": 2,
+    "name": "Ervin Howell",
+    "username": "Antonette",
+    "email": "Shanna@melissa.tv",
+    "phone": "010-692-6593 x09125",
+    "department": "Product Development",
+    "status": "Online",
+    "location": "Office",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a1/NafSadh_Profile.jpg/768px-NafSadh_Profile.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Clementine Bauch",
+    "username": "Samantha",
+    "email": "Nathan@yesenia.net",
+    "phone": "1-463-123-4447",
+    "department": "Engineering",
+    "status": "Online",
+    "location": "Remote",
+    "image": "http://cflyer.com//comprehensive/uploads/thumbnail/630044536ravi.png"
+  },
+  {
+    "id": 4,
+    "name": "Patricia Lebsack",
+    "username": "Karianne",
+    "email": "Julianne.OConner@kory.org",
+    "phone": "493-170-9623 x156",
+    "department": "Research and Development",
+    "status": "Off",
+    "location": "Remote",
+    "image": "https://bittaxer.com/wp-content/uploads/2018/03/danielle-profile-bittaxer-300x300.jpg"
+  }
   ],
   "profile": {
     "name": "typicode"
